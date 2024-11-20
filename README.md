@@ -6,5 +6,7 @@ el taller y la función arreglarCoches o arreglarMotos implica recorrer todos lo
 haya y arr ancarlos.
 ![Screenshot 2024-11-19 224354](https://github.com/user-attachments/assets/83597a8d-2756-4b72-9128-aa5a432ed000)
 
+
+
 UML refactorizado (actualizado próximamente):
 ![image](https://github.com/user-attachments/assets/4402d8ab-f224-44db-b95b-4f4967e26553)
