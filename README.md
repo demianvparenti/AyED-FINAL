@@ -8,5 +8,6 @@ haya y arr ancarlos.
 
 
 
-UML refactorizado (actualizado próximamente):
-![image](https://github.com/user-attachments/assets/4402d8ab-f224-44db-b95b-4f4967e26553)
+UML refactorizado:
+![image](https://github.com/user-attachments/assets/762bc5e7-f104-4e0f-b2f9-609b4917c6b1)
+
