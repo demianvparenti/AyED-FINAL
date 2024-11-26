@@ -9,5 +9,6 @@ haya y arr ancarlos.
 
 
 UML refactorizado:
-![image](https://github.com/user-attachments/assets/762bc5e7-f104-4e0f-b2f9-609b4917c6b1)
 
+
+![image](https://github.com/user-attachments/assets/762bc5e7-f104-4e0f-b2f9-609b4917c6b1)
